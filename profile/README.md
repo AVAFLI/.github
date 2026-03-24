@@ -14,8 +14,8 @@ Avafli is a product and consulting agency specializing in sweepstakes, gamificat
 |----------|---------|
 | iOS | [winr_ios_sdk](https://github.com/AVAFLI/winr_ios_sdk) — Swift · SPM |
 | Android | [winr_android_sdk](https://github.com/AVAFLI/winr_android_sdk) — Kotlin · JitPack |
-| Flutter | [winr_flutter_sdk](https://github.com/AVAFLI/winr_flutter_sdk) — Dart · pub.dev |
-| Web | [winr_web_sdk](https://github.com/AVAFLI/winr_web_sdk) — TypeScript · npm |
+| Flutter | [winr_flutter_sdk](https://github.com/AVAFLI/winr_flutter_sdk) — Dart |
+| Web | [winr_web_sdk](https://github.com/AVAFLI/winr_web_sdk) — TypeScript |
 
 ### Key Features
 
@@ -27,4 +27,4 @@ Avafli is a product and consulting agency specializing in sweepstakes, gamificat
 
 ## Links
 
-🌐 [avafli.com](https://avafli.com) · ✉️ [Contact Us](https://avafli.com/contact)
+🌐 [avafli-website.web.app](https://avafli-website.web.app) · ✉️ [Contact Us](https://avafli-website.web.app) · 📊 [Dashboard](https://avafli-website.web.app/sdk/dashboard)
