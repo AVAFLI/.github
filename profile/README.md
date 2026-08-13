@@ -10,7 +10,7 @@ Avafli is a product and consulting agency specializing in sweepstakes, gamificat
 
 **Sweepstakes & engagement infrastructure for mobile and web app publishers.** Drop the SDK in, and your users get a daily prize-draw experience — streaks, entries, and winner claims — that keeps them coming back. Pass whatever identity you already have (even just a user id) and the SDK captures the rest, turning anonymous users into marketing‑consented, contactable entrants.
 
-**Current version: 2.7.0** — available on every platform.
+**Current version: 2.8** — available on every platform.
 
 | Platform | Package |
 |----------|---------|
